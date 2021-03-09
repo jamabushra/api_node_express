@@ -1,4 +1,5 @@
-Node Express Restful API
+##Node Express Restful API
+
 An api made using node.js and express.js. CRUD application allowing us to handle and do many different things with users in a database. Also used POSTMAN to run the different route functions, namely create, update, and delete.
 
 ### `npm start`
